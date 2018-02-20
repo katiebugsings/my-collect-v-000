@@ -5,7 +5,7 @@ def my_collect(x)
     y << x[i]
     i += 1
   end
-
+  y
 end
 # my_collect(array) do |name|
 #   name.split(" ").first
